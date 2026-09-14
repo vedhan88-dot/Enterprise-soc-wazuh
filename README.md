@@ -1,4 +1,4 @@
-# 🛡️ Mini SOC Home Lab with Wazuh
+# 🛡️ Enterprise Soc Home Lab
 
 ## Overview
 
