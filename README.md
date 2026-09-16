@@ -38,6 +38,9 @@ SOC L1 Analyst
 
 ## Completed Labs
 
-- [x] LAB 01 – File Integrity Monitoring (FIM) 
-- [x] LAB 02 – Linux Authentication Monitoring
-- [x] LAB 03 – SSH Brute-Force Investigation
+- LAB 01 – File Integrity Monitoring (FIM) 
+- LAB 02 – Linux Authentication Monitoring
+- LAB 03 – SSH Brute-Force Investigation
+- LAB 04 - Suspicious-user-creation
+- LAB 05 - linux-authentication
+- LAB 06 - Vulnerability-detection-remediation
