@@ -44,3 +44,7 @@ SOC L1 Analyst
 - LAB 04 - Suspicious-user-creation
 - LAB 05 - linux-authentication
 - LAB 06 - Vulnerability-detection-remediation
+- LAB 07 - Security-Configuration Assessment (SCA)
+- LAB 08 - Mitre-ATTCK-Mapping
+- LAB 09 - Thireat-Hunting
+- LAB 10 - Active Response
